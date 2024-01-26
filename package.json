@@ -1,7 +1,7 @@
 {
   "name": "mod-d",
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
   "module": "index.mjs",
   "types": "index.d.ts",
   "exports": {
